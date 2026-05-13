@@ -1,0 +1,132 @@
+{
+  "test.ipynb": [
+    {
+      "filename": "test_dataset_summary_table.png",
+      "cell": 2,
+      "img_index": 0,
+      "title": "<Figure size 1200x300 with 1 Axes>"
+    },
+    {
+      "filename": "test_confusion_matrix.png",
+      "cell": 6,
+      "img_index": 0,
+      "title": "Train: 9600 messages\nTest: 2400 messages\nOverall Accuracy: 0.7883 (78.83%)\n\nPer-Sender Metrics (sort"
+    },
+    {
+      "filename": "test_confusion_matrix_2.png",
+      "cell": 6,
+      "img_index": 1,
+      "title": "Train: 9600 messages\nTest: 2400 messages\nOverall Accuracy: 0.7883 (78.83%)\n\nPer-Sender Metrics (sort"
+    },
+    {
+      "filename": "test_confusion_matrix_3.png",
+      "cell": 6,
+      "img_index": 2,
+      "title": "Train: 9600 messages\nTest: 2400 messages\nOverall Accuracy: 0.7883 (78.83%)\n\nPer-Sender Metrics (sort"
+    },
+    {
+      "filename": "test_confusion_matrix.png",
+      "cell": 7,
+      "img_index": 0,
+      "title": "Train: 9600 messages\nTest: 2400 messages\nOverall Accuracy: 0.7975 (79.75%)\n\nPer-Sender Metrics (sort"
+    },
+    {
+      "filename": "test_confusion_matrix_2.png",
+      "cell": 7,
+      "img_index": 1,
+      "title": "Train: 9600 messages\nTest: 2400 messages\nOverall Accuracy: 0.7975 (79.75%)\n\nPer-Sender Metrics (sort"
+    },
+    {
+      "filename": "test_confusion_matrix_3.png",
+      "cell": 7,
+      "img_index": 2,
+      "title": "Train: 9600 messages\nTest: 2400 messages\nOverall Accuracy: 0.7975 (79.75%)\n\nPer-Sender Metrics (sort"
+    },
+    {
+      "filename": "test_confusion_matrix.png",
+      "cell": 8,
+      "img_index": 0,
+      "title": "Train: 9600 messages\nTest: 2400 messages\nOverall Accuracy: 0.7508 (75.08%)\n\nPer-Sender Metrics (sort"
+    },
+    {
+      "filename": "test_confusion_matrix_2.png",
+      "cell": 8,
+      "img_index": 1,
+      "title": "Train: 9600 messages\nTest: 2400 messages\nOverall Accuracy: 0.7508 (75.08%)\n\nPer-Sender Metrics (sort"
+    },
+    {
+      "filename": "test_confusion_matrix_3.png",
+      "cell": 8,
+      "img_index": 2,
+      "title": "Train: 9600 messages\nTest: 2400 messages\nOverall Accuracy: 0.7508 (75.08%)\n\nPer-Sender Metrics (sort"
+    },
+    {
+      "filename": "test_confusion_matrix.png",
+      "cell": 9,
+      "img_index": 0,
+      "title": "Train: 9600 messages\nTest: 2400 messages\nOverall Accuracy: 0.7775 (77.75%)\n\nPer-Sender Metrics (sort"
+    },
+    {
+      "filename": "test_confusion_matrix_2.png",
+      "cell": 9,
+      "img_index": 1,
+      "title": "Train: 9600 messages\nTest: 2400 messages\nOverall Accuracy: 0.7775 (77.75%)\n\nPer-Sender Metrics (sort"
+    },
+    {
+      "filename": "test_confusion_matrix_3.png",
+      "cell": 9,
+      "img_index": 2,
+      "title": "Train: 9600 messages\nTest: 2400 messages\nOverall Accuracy: 0.7775 (77.75%)\n\nPer-Sender Metrics (sort"
+    },
+    {
+      "filename": "test_confusion_matrix.png",
+      "cell": 10,
+      "img_index": 0,
+      "title": "Train: 9600 messages\nTest: 2400 messages\n\nUsing handcrafted features: ['char_count', 'word_count']\nC"
+    },
+    {
+      "filename": "test_confusion_matrix_2.png",
+      "cell": 10,
+      "img_index": 1,
+      "title": "Train: 9600 messages\nTest: 2400 messages\n\nUsing handcrafted features: ['char_count', 'word_count']\nC"
+    },
+    {
+      "filename": "test_confusion_matrix_3.png",
+      "cell": 10,
+      "img_index": 2,
+      "title": "Train: 9600 messages\nTest: 2400 messages\n\nUsing handcrafted features: ['char_count', 'word_count']\nC"
+    },
+    {
+      "filename": "test_confusion_matrix.png",
+      "cell": 11,
+      "img_index": 0,
+      "title": "Train: 9600 messages\nTest: 2400 messages\n\nEnsemble Accuracy: 0.7967 (79.67%)\n\nPer-Sender Metrics (so"
+    },
+    {
+      "filename": "test_confusion_matrix_2.png",
+      "cell": 11,
+      "img_index": 1,
+      "title": "Train: 9600 messages\nTest: 2400 messages\n\nEnsemble Accuracy: 0.7967 (79.67%)\n\nPer-Sender Metrics (so"
+    }
+  ],
+  "ded_executed.ipynb": [
+    {
+      "filename": "ded_dataset_summary_table.png",
+      "cell": 2,
+      "img_index": 0,
+      "title": "<Figure size 1200x500 with 1 Axes>"
+    },
+    {
+      "filename": "ded_per_sender_metrics.png",
+      "cell": 8,
+      "img_index": 0,
+      "title": "======================================================================\n   DEDUCTIVE MODEL (8 Known +"
+    },
+    {
+      "filename": "ded_per_sender_metrics_2.png",
+      "cell": 8,
+      "img_index": 1,
+      "title": "======================================================================\n   DEDUCTIVE MODEL (8 Known +"
+    }
+  ]
+}
